@@ -26,8 +26,7 @@ var name = "Sarah";
  var canDrive;
  if(person.age >= 16) {
   canDrive = true;
- }
- else{
+ } else {
   canDrive = false;
  }
 
